@@ -1,1 +1,1 @@
-Git command add new content
+Git command add new content record new state
