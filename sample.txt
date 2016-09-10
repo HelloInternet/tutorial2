@@ -1,1 +1,2 @@
-Git command add new content record new state
+Git command add new content record new state pull remote
+
